@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "My Resume App",
+  "personalInfo": "Personal Info",
+  "skills": "Skills",
+  "education": "Education",
+  "workExperience": "Work Experience",
+  "activities": "Activities",
+  "settings": "Settings",
+  "hello": "Hello",
+  "aboutMe": "About Me",
+  "dateOfBirth": "Date of Birth: 13/10/2002"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Mon application de CV",
+  "personalInfo": "Informations personnelles",
+  "skills": "Compétences",
+  "education": "Éducation",
+  "workExperience": "Expérience professionnelle",
+  "activities": "Activités",
+  "settings": "Paramètres",
+  "hello": "Bonjour",
+  "aboutMe": "À propos de moi",
+  "dateOfBirth": "Date de naissance : 13/10/2002"
+}
